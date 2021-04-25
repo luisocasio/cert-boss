@@ -1,9 +1,13 @@
+import Nav from "./components/Nav";
+import Upload from "./components/Upload/Upload.js";
+
 const App = () => {
   return (
     <div className="App">
-      <h1>Welcome.</h1>
+      <Nav />
+      <Upload />
     </div>
   );
-}
+};
 
 export default App;

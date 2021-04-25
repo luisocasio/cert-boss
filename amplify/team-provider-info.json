@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-certboss-dev-74922-authRole",
+      "UnauthRoleArn": "arn:aws:iam::563393378712:role/amplify-certboss-dev-74922-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::563393378712:role/amplify-certboss-dev-74922-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-certboss-dev-74922-deployment",
+      "UnauthRoleName": "amplify-certboss-dev-74922-unauthRole",
+      "StackName": "amplify-certboss-dev-74922",
+      "StackId": "arn:aws:cloudformation:us-east-1:563393378712:stack/amplify-certboss-dev-74922/1d853750-a4f3-11eb-b6d2-0a679f4064a3",
+      "AmplifyAppId": "d2djp9nqjyot5n"
+    }
+  }
+}
