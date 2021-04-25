@@ -1,6 +1,6 @@
 import React from "react";
 
-const Upload = () => {
+const PostData = () => {
   const [uploadStr, setUploadStr] = React.useState("");
 
   const handleChange = (e) => {
@@ -23,4 +23,4 @@ const Upload = () => {
   );
 };
 
-export default Upload;
+export default PostData;
